@@ -36,5 +36,5 @@ Estoy Cursando el 5to Semestre de mi carrera y a lo largo de mi estancia en la u
 ---
 
 ### 📫 Contacto
-* **Correo:** [186727@upslp.edu.mx]
+* **Correo Institucional:** [186727@upslp.edu.mx](mailto:186727@upslp.edu.mx)
 * **Portafolio Web:** [tu-sitio-web.com](https://tu-sitio-web.com)
