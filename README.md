@@ -1,8 +1,7 @@
 # Hola, soy Jesús Antonio Rodríguez Vázquez 
 
-Soy un estudiante de la universidad Politécnica de SLP estudio la carrera de Ingenieria en Tegnologías de la Información
-Estoy Cursando el 5to Semestre de mi carrera
-Soy un estudiante universitario de **Ingeniería en Tecnologías de la Información** enfocado en el desarrollo web, lógica de programación y aseguramiento de calidad (QA). Me interesa construir aplicaciones funcionales, analizar arquitecturas de software y optimizar la experiencia de usuario.
+Soy un estudiante de la universidad Politécnica de SLP estudio la carrera de Ingenieria en Tegnologías de la Información.
+Estoy Cursando el 5to Semestre de mi carrera y a lo largo de mi estancia en la universidad me eh enfocado en el desarrollo web, desarrollar una lógica de programación. Me interesa construir aplicaciones funcionales e intuitivas y analizar arquitecturas de software.
 
 ---
 
@@ -34,5 +33,4 @@ Soy un estudiante universitario de **Ingeniería en Tecnologías de la Informaci
 
 ### 📫 Contacto
 * **Correo:** [tu-correo@ejemplo.com]
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
 * **Portafolio Web:** [tu-sitio-web.com](https://tu-sitio-web.com)
