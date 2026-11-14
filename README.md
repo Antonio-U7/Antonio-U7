@@ -24,7 +24,6 @@ Estoy Cursando el 5to Semestre de mi carrera y a lo largo de mi estancia en la u
 **🌱 Aprendiendo y perfeccionando actualmente:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 * Control de versiones local con Git y flujos de trabajo colaborativos.
-* Pruebas funcionales de software (QA) y validación de interfaces web.
 * Buenas prácticas de arquitectura y despliegue de proyectos web.
 
 ---
