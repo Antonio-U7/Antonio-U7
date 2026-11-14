@@ -17,10 +17,15 @@ Estoy Cursando el 5to Semestre de mi carrera y a lo largo de mi estancia en la u
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Bases de Datos y Control de Versiones:**
+**Bases de Datos y Plataformas:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**🌱 Aprendiendo y perfeccionando actualmente:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* Control de versiones local con Git y flujos de trabajo colaborativos.
+* Pruebas funcionales de software (QA) y validación de interfaces web.
+* Buenas prácticas de arquitectura y despliegue de proyectos web.
 
 ---
 
