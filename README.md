@@ -29,7 +29,7 @@ Hola soy un estudiante de la universidad Politécnica de SLP estudio la carrera 
 
 ###  Enfoque actual
 * **Formación Académica:** Estructuras de datos, algoritmos y arquitectura de software.
-* * **Desarrollo Web :** Creación de sitios responsivos, integración con bases de datos relacionales y despliegue en la nube.
+* **Desarrollo Web :** Creación de sitios responsivos, integración con bases de datos relacionales y despliegue en la nube.
 * **Pruebas y Validación Web (QA):** Análisis funcional, detección de errores de interfaz/lógica y verificación de flujos de usuario.
 
 ---
