@@ -1,7 +1,6 @@
 # Hola, soy Jesús Antonio Rodríguez Vázquez 
 
-Soy un estudiante de la universidad Politécnica de SLP estudio la carrera de Ingenieria en Tegnologías de la Información.
-Estoy Cursando el 5to Semestre de mi carrera y a lo largo de mi estancia en la universidad me eh enfocado en el desarrollo web, desarrollar una lógica de programación. Me interesa construir aplicaciones funcionales e intuitivas y analizar arquitecturas de software.
+Hola soy un estudiante de la universidad Politécnica de SLP estudio la carrera de Ingeniería en Tecnologías de la Información y estoy cursando el 5to Semestre de mi carrera y a lo largo de mi estancia en la universidad me eh enfocado en el desarrollo web, desarrollar una lógica de programación. Me interesa construir aplicaciones funcionales e intuitivas y analizar arquitecturas de software.
 
 ---
 
@@ -28,13 +27,12 @@ Estoy Cursando el 5to Semestre de mi carrera y a lo largo de mi estancia en la u
 
 ---
 
-### 🎯 Enfoque actual
-* 🔍 **Pruebas y Validación Web (QA):** Análisis funcional, detección de errores de interfaz/lógica y verificación de flujos de usuario.
-* 💻 **Desarrollo Web Full-Stack:** Creación de sitios responsivos, integración con bases de datos relacionales y despliegue en la nube.
-* 📚 **Formación Académica:** Estructuras de datos, algoritmos y arquitectura de software.
+###  Enfoque actual
+* **Pruebas y Validación Web (QA):** Análisis funcional, detección de errores de interfaz/lógica y verificación de flujos de usuario.
+* **Desarrollo Web Full-Stack:** Creación de sitios responsivos, integración con bases de datos relacionales y despliegue en la nube.
+* **Formación Académica:** Estructuras de datos, algoritmos y arquitectura de software.
 
 ---
 
 ### 📫 Contacto
 * **Correo Institucional:** [186727@upslp.edu.mx](mailto:186727@upslp.edu.mx)
-* **Portafolio Web:** [tu-sitio-web.com](https://tu-sitio-web.com)
